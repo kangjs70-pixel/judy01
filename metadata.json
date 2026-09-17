@@ -1,0 +1,6 @@
+{
+  "name": "트레일파인더 (TrailFinder)",
+  "description": "전국 최고의 트래킹 코스, 둘레길, 산림욕장 탐색 및 AI 맞춤 트래킹 추천 앱",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
